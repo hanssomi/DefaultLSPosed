@@ -39,4 +39,4 @@ kr.hanssomi.android.lsposed.Module
 ```
 
 5. Module.java
-    - open th Module.java
+    - open the Module.java
