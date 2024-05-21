@@ -21,13 +21,12 @@ The LSPosed is https://github.com/LSPosed/LSPosed
 </applicaiton>
 ```
 
-2. open the app-level build.gradle
-dependencies add the line
+2. app-level build.gradle
 ```
 compileOnly 'de.robv.android.xposed:api:82'
 ```
 
-3. open the project-level settings.gradle
+3. project-level settings.gradle
 ```
 maven { url 'https://api.xposed.info/' }
 ```
