@@ -7,6 +7,7 @@ The LSPosed is https://github.com/LSPosed/LSPosed
 # Use to (Setting Android)
 1. Add the following line to the AndroidManifest.xml
 
+```
 <application>
     <meta-data
         android:name="xposedmodule"
@@ -18,19 +19,25 @@ The LSPosed is https://github.com/LSPosed/LSPosed
         android:name="xposedminversion"
         android:value="82" />
 </applicaiton>
+```
 
 2. open the app-level build.gradle
 dependencies add the line
-    - compileOnly 'de.robv.android.xposed:api:82'
+```
+compileOnly 'de.robv.android.xposed:api:82'
+```
 
 3. open the project-level settings.gradle
-    ...
-    - maven { url 'https://api.xposed.info/' }
+```
+maven { url 'https://api.xposed.info/' }
+```
 
 4. create a file app/src/main/assets
     - xposed_init
     - Initialize the class to be injected.
-    - ex) kr.hanssomi.android.lsposed.Module
+```
+kr.hanssomi.android.lsposed.Module
+```
 
 5. Module.java
     - open th Module.java
