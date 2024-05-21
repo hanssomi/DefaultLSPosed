@@ -1,7 +1,10 @@
+# LSPosed Default Settings
 This repository teaches you how to change the title of "Android settings" using Magisk + LSPosed.
 
+# Info
 The LSPosed is https://github.com/LSPosed/LSPosed
 
+# Use to (Setting Android)
 1. Add the following line to the AndroidManifest.xml
 
 <application>
