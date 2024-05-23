@@ -41,7 +41,7 @@ kr.hanssomi.android.lsposed.Module
 5. Module.java
     - open the Module.java
   
-6. Result
+6. Result<br>
     <img src="https://github.com/hanssomi/LSPosed/assets/37549658/407c2522-2c54-4668-bb38-6417b7e88a62" width="360" />
 
 
