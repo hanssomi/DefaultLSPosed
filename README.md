@@ -1,4 +1,4 @@
-# LSPosed Default Settings
+![mysetting](https://github.com/hanssomi/LSPosed/assets/37549658/161f4f70-997b-4a8e-b8c7-6e27ad51e90e)# LSPosed Default Settings
 This repository teaches you how to change the title of "Android settings" using Magisk + LSPosed.
 
 # Info
@@ -40,3 +40,9 @@ kr.hanssomi.android.lsposed.Module
 
 5. Module.java
     - open the Module.java
+  
+6. Result
+    ![mysetting](https://github.com/hanssomi/LSPosed/assets/37549658/407c2522-2c54-4668-bb38-6417b7e88a62)
+
+
+   
